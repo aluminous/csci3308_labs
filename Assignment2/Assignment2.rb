@@ -1,5 +1,5 @@
 #
-# GitHub URL: https://github.com/aluminous/csci3308_labs/Assignment2/
+# GitHub URL: https://github.com/aluminous/csci3308_labs/tree/master/Assignment2
 #
 
 #

@@ -1,5 +1,5 @@
 #
-# GitHub URL: https://github.com/aluminous/csci3308_labs/Lab2/
+# GitHub URL: https://github.com/aluminous/csci3308_labs/tree/master/Lab2
 #
 
 # Part1: Hello World
