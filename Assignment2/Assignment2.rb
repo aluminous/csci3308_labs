@@ -146,7 +146,7 @@ end
 
 puts 'Array:', [1,2,3,2,1].palindrome?.inspect # => true
 test = { :foo => "bar", :tuna => "fish"}
-puts 'Hash:', test.palindrome?.inspect # => true
+puts 'Hash:', test.palindrome?.inspect # => false
 
 #
 # Part 4
